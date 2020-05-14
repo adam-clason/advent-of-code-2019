@@ -14,7 +14,12 @@ To run these programs you will need your puzzle input for each day. The rust pro
 
     The second parameter is the output given by the puzzle. The program calculates a "noun" and "verb" that will result in the given output, and does some simple math on those values and prints out the puzzle answer. 
 
-2. Day 3: Crossed Wires 
+3. Day 3: Crossed Wires 
 
     `cargo run <input_file_name>`
+
+4. Day 4: Secure Container 
+
+    `cargo run <lower_bound> <upper_bound`
+
 
